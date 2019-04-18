@@ -1,0 +1,5 @@
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\MainWindow.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\App.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI_MarkupCompile.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI_MarkupCompile.lref

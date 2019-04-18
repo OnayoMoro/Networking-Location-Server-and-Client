@@ -1,0 +1,57 @@
+﻿<Window x:Class="LocationClientGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LocationClientGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="729" Background="#FF008956">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140*"/>
+            <ColumnDefinition Width="125*"/>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="411*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="#FF008348" BorderThickness="1" HorizontalAlignment="Left" Height="632" VerticalAlignment="Top" Width="67" Margin="66,-282,0,0" Background="#FF007E45" RenderTransformOrigin="0.5,0.5" Grid.Column="3">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.937"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+
+        <Border BorderBrush="#FF004727" BorderThickness="1" HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="95" Margin="0,0,0,-1" Background="#FF00552F"/>
+
+        <TextBox x:Name="CommandLine" HorizontalAlignment="Left" Height="265" Margin="15,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="390" Background="#50000000" Foreground="White" BorderBrush="Black" BorderThickness="4" Grid.Column="2" Grid.ColumnSpan="2" TextChanged="CommandLine_TextChanged"/>
+        <Label Content="Location Client " HorizontalAlignment="Left" Margin="100,0,0,0" VerticalAlignment="Top" Height="80" Width="250" FontSize="36" FontFamily="Microsoft YaHei UI Light" FontStyle="Italic" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <Label Content="Host" HorizontalAlignment="Left" Margin="20,75,0,0" VerticalAlignment="Top" FontFamily="SWMono" FontWeight="Bold"/>
+        <RadioButton x:Name="HTTP_0_9" Content="HTTP/0.9" HorizontalAlignment="Left" Margin="8,290,0,0" VerticalAlignment="Top" Background="Transparent" BorderBrush="Black" FontFamily="SWMono" FontWeight="Bold" Grid.Column="1"/>
+        <RadioButton x:Name="HTTP_1_0" Content="HTTP/1.0" HorizontalAlignment="Left" Margin="8,315,0,0" VerticalAlignment="Top" Background="Transparent" BorderBrush="Black" FontFamily="SWMono" FontWeight="Bold" Grid.Column="1"/>
+        <RadioButton x:Name="HTTP_1_1" Content="HTTP/1.1" HorizontalAlignment="Left" Margin="8,340,0,0" VerticalAlignment="Top" BorderBrush="Black" Background="Transparent" FontFamily="SWMono" FontWeight="Bold" Grid.Column="1"/>
+        <TextBox x:Name="Hosttxt" HorizontalAlignment="Left" Height="23" Margin="125,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black" Background="#00000000" BorderThickness="0,0,0,2" Grid.ColumnSpan="2" Foreground="White"/>
+        <TextBox x:Name="Porttxt" HorizontalAlignment="Left" Height="23" Margin="125,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black" BorderThickness="0,0,0,2" Background="Transparent" Grid.ColumnSpan="2" Foreground="White"/>
+        <TextBox x:Name="Timeouttxt" HorizontalAlignment="Left" Height="23" Margin="125,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderThickness="0,0,0,2" BorderBrush="Black" Background="Transparent" Grid.ColumnSpan="2" Foreground="White"/>
+        <TextBox x:Name="Nametxt" HorizontalAlignment="Left" Height="23" Margin="125,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" OpacityMask="#FF9C0000" BorderThickness="0,0,0,2" BorderBrush="Black" Background="Transparent" Grid.ColumnSpan="2" Foreground="White"/>
+        <Label Content="Timeout" HorizontalAlignment="Left" Margin="7,150,0,0" VerticalAlignment="Top" FontFamily="SWMono" FontWeight="Bold"/>
+        <TextBox x:Name="Locationtxt" HorizontalAlignment="Left" Height="23" Margin="125,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderThickness="0,0,0,2" BorderBrush="Black" Background="Transparent" Grid.ColumnSpan="2" Foreground="White"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="24,187,0,0" VerticalAlignment="Top" FontFamily="SWMono" FontWeight="Bold"/>
+        <Label Content="Port" HorizontalAlignment="Left" Margin="20,112,0,0" VerticalAlignment="Top" FontFamily="SWMono" FontWeight="Bold"/>
+        <Label Content="Location" HorizontalAlignment="Left" Margin="5,225,0,0" VerticalAlignment="Top" FontFamily="SWMono" FontWeight="Bold"/>
+        <RadioButton x:Name="whois" Content="WHOIS" HorizontalAlignment="Left" Margin="8,265,0,0" VerticalAlignment="Top" Background="#00000000" BorderBrush="Black" FontFamily="SWMono" FontWeight="Bold" Grid.Column="1"/>
+        <Label Content="Console" HorizontalAlignment="Left" Margin="17,70,0,0" VerticalAlignment="Top" FontFamily="SWMono" FontWeight="Bold" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Button x:Name="Launchbtn" Content="Launch" HorizontalAlignment="Left" Margin="5,255,0,0" VerticalAlignment="Top" Width="81" Height="70" FontSize="16" Click="Launchbtn_Click_1" RenderTransformOrigin="1,0" BorderBrush="Black" FontFamily="SWMono" Foreground="Black" Background="#FF003E22" BorderThickness="2"/>
+        <CheckBox x:Name="Debugbox" Content="Debug" HorizontalAlignment="Left" Margin="15,340,0,0" VerticalAlignment="Top" Background="#00000000" BorderBrush="Black" FontFamily="SWMono" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="130,-140,0,0" VerticalAlignment="Top" Width="100" Grid.ColumnSpan="2">
+            <Image.OpacityMask>
+                <ImageBrush/>
+            </Image.OpacityMask>
+        </Image>
+        <Image Margin="10,5,60,349" Source="kisspng-globe-world-map-earth-5b3b7b97132c18.9247057615306249190785.png" Stretch="Fill" OpacityMask="Black"/>
+        <Image Margin="45,105,111,59" Source="kisspng-globe-world-map-earth-5b3b7b97132c18.9247057615306249190785.png" Stretch="Fill" Grid.Column="3" Opacity="0.2"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,58 @@
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\MainWindow.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\App.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI_MarkupCompile.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI_MarkupCompile.lref
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\bin\Debug\LocationClientGUI.exe.config
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\bin\Debug\LocationClientGUI.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\bin\Debug\LocationClientGUI.pdb
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\MainWindow.baml
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI.g.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI.Properties.Resources.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\Location.csproj.GenerateResource.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\Location.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\LocationClientGUI\LocationClientGUI\obj\Debug\LocationClientGUI.pdb
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\MainWindow.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\App.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\MainWindow.baml
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location.csproj.GenerateResource.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\bin\Debug\location.exe.config
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\bin\Debug\location.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\bin\Debug\location.pdb
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location_MarkupCompile.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location_MarkupCompile.lref
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location.g.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location.Properties.Resources.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\backup assignment\LocationClientGUI\LocationClientGUI\obj\Debug\location.pdb
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\bin\Debug\location.exe.config
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\bin\Debug\location.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\bin\Debug\location.pdb
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\MainWindow.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\App.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location_MarkupCompile.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location_MarkupCompile.lref
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\MainWindow.baml
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location.g.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location.Properties.Resources.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location.csproj.GenerateResource.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location.pdb
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\location\LocationClientGUI\obj\Debug\location.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\bin\Debug\location.exe.config
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\bin\Debug\location.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\bin\Debug\location.pdb
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\MainWindow.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\App.g.cs
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location_MarkupCompile.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location_MarkupCompile.lref
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\MainWindow.baml
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location.g.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location.Properties.Resources.resources
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location.csproj.GenerateResource.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location.exe
+\\adir.hull.ac.uk\home\554\554423\Desktop\ComputerScienceYear2\NetworkingACW\Final Hand In\location\LocationClientGUI\obj\Debug\location.pdb
